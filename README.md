@@ -4,11 +4,6 @@
 유기동물들이 증가를 막을 공간을 만들고자 했습니다.
 입양 보내고 신고 받은 동물을 보호해주는 커뮤니티 입니다.
 
-
-&nbsp;
-  <image src="https://github.com/KangConqueror/KhFinalProject/blob/main/ImageFolder/main.png" />
-&nbsp;
-
 ## 나의 작업은
 회원 정보 수정 && 삭제 입니다.
 
